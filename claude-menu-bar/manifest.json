@@ -1,0 +1,5 @@
+{
+  "version": "1.1.4",
+  "download_url": "https://raw.githubusercontent.com/SAP-Taulia-AI-Labs/sap-taulia-ai-labs-apps-releases/main/claude-menu-bar/ClaudeMenuBar-macOS.app.zip",
+  "release_notes": "Token-free update checker with in-app download support"
+}
