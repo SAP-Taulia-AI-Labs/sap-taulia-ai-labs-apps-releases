@@ -1,5 +1,5 @@
 {
-  "version": "1.1.4",
-  "download_url": "https://github.com/SAP-Taulia-AI-Labs/sap-taulia-ai-labs-apps-releases/releases/download/claude-menu-bar-v1.1.4/ClaudeMenuBar-macOS.app.zip",
-  "release_notes": "Token-free update checker with in-app download support"
+  "version": "1.1.5",
+  "download_url": "https://github.com/SAP-Taulia-AI-Labs/sap-taulia-ai-labs-apps-releases/releases/download/claude-menu-bar-v1.1.5/ClaudeMenuBar-macOS.app.zip",
+  "release_notes": "Daily update check at 2pm with macOS notification; removed Lite branding"
 }
