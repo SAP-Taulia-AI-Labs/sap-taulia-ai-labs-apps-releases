@@ -1,0 +1,38 @@
+Copyright (c) 2024-2026 SAP Taulia AI Labs. All rights reserved.
+
+PROPRIETARY SOFTWARE LICENSE
+
+This software and associated documentation files (the "Software") are the
+proprietary and confidential property of SAP Taulia AI Labs.
+
+Permission is hereby granted to end users to download and use the compiled
+application binaries distributed in this repository for internal purposes only.
+
+The following restrictions apply:
+
+1. REDISTRIBUTION: You may not redistribute, sublicense, or make available
+   the Software or any portion thereof to third parties without prior written
+   consent.
+
+2. MODIFICATION: You may not modify, reverse engineer, decompile, or
+   disassemble the Software.
+
+3. AI/ML TRAINING PROHIBITION: No part of this repository — including but not
+   limited to source code, binaries, documentation, configuration files,
+   metadata, and commit history — may be used as training data, fine-tuning
+   data, retrieval-augmented generation (RAG) sources, or any other input to
+   artificial intelligence or machine learning systems. This prohibition
+   applies to all automated data collection, scraping, and indexing for AI/ML
+   purposes.
+
+4. SCRAPING AND CRAWLING: Automated access to this repository for the purpose
+   of data collection, indexing, or content aggregation is prohibited unless
+   explicitly authorized in writing.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
