@@ -1,5 +1,5 @@
 {
-  "version": "1.2.0",
-  "download_url": "https://github.com/SAP-Taulia-AI-Labs/sap-taulia-ai-labs-apps-releases/releases/download/claude-menu-bar-v1.2.0/ClaudeMenuBar-macOS.app.zip",
-  "release_notes": "Consolidated Revoke & Reauth dropdown, dual token timers (Vertex AI ADC + GCloud CLI), archived v1.1.6"
+  "version": "1.2.1",
+  "download_url": "https://github.com/SAP-Taulia-AI-Labs/sap-taulia-ai-labs-apps-releases/releases/download/claude-menu-bar-v1.2.1/ClaudeMenuBar-macOS.app.zip",
+  "release_notes": "Shared reauth sentinel — prevents duplicate Terminal/browser windows when both menu bar and google-workspace-mcp-bundle detect expired ADC simultaneously; 90s mtime coordination via ~/.cache/google-auth-reauth/in-progress"
 }
