@@ -1,5 +1,5 @@
 {
-  "version": "1.2.3",
-  "download_url": "https://github.com/SAP-Taulia-AI-Labs/sap-taulia-ai-labs-apps-releases/releases/download/claude-menu-bar-v1.2.3/ClaudeMenuBar.pkg",
-  "release_notes": "v1.2.3 — productbuild pkg installer (fixes macOS 26 crash), silent kill, gcloud PATH fallback, ADC reauth fix, collapsible auth timers, menu bar ADC:/CLI: prefix"
+  "version": "1.2.4",
+  "download_url": "https://github.com/SAP-Taulia-AI-Labs/sap-taulia-ai-labs-apps-releases/releases/download/claude-menu-bar-v1.2.4/ClaudeMenuBar.pkg",
+  "release_notes": "v1.2.4 — SAP Taulia branding, productbuild pkg installer, silent kill, gcloud PATH fallback, ADC reauth fix, collapsible auth timers, menu bar ADC:/CLI: prefix"
 }
