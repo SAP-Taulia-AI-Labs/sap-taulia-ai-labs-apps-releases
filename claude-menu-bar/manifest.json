@@ -1,5 +1,5 @@
 {
-  "version": "1.1.6",
-  "download_url": "https://github.com/SAP-Taulia-AI-Labs/sap-taulia-ai-labs-apps-releases/releases/download/claude-menu-bar-v1.1.6/ClaudeMenuBar-macOS.app.zip",
-  "release_notes": "Claude Desktop (Cowork/3P) analytics — tracks token usage and costs from local agent mode sessions; project source labels (CLI vs Desktop) in cost breakdown"
+  "version": "1.2.0",
+  "download_url": "https://github.com/SAP-Taulia-AI-Labs/sap-taulia-ai-labs-apps-releases/releases/download/claude-menu-bar-v1.2.0/ClaudeMenuBar-macOS.app.zip",
+  "release_notes": "Consolidated Revoke & Reauth dropdown, dual token timers (Vertex AI ADC + GCloud CLI), archived v1.1.6"
 }
