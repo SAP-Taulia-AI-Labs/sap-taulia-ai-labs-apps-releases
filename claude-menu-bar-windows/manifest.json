@@ -1,5 +1,5 @@
 {
-  "version": "1.2.0.6",
-  "download_url": "https://github.com/SAP-Taulia-AI-Labs/sap-taulia-ai-labs-apps-releases/releases/download/claude-menu-bar-windows-v1.2.0.6/ClaudeMenuBar-Windows-1.2.0.6.msi",
-  "release_notes": "Check for Update shows 'Running latest version' briefly when already up to date, then reverts"
+  "version": "1.2.0.7",
+  "download_url": "https://github.com/SAP-Taulia-AI-Labs/sap-taulia-ai-labs-apps-releases/releases/download/claude-menu-bar-windows-v1.2.0.7/ClaudeMenuBar-Windows-1.2.0.7.msi",
+  "release_notes": "Clicking 'Check for Update' now checks and auto-downloads in one step when an update is available"
 }
