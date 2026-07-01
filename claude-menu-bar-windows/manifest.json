@@ -1,5 +1,5 @@
 {
-  "version": "1.2.0",
-  "download_url": "https://github.com/SAP-Taulia-AI-Labs/sap-taulia-ai-labs-apps-releases/releases/download/claude-menu-bar-windows-v1.2.0/ClaudeMenuBar-Windows-1.2.0-3.msi",
+  "version": "1.2.0.4",
+  "download_url": "https://github.com/SAP-Taulia-AI-Labs/sap-taulia-ai-labs-apps-releases/releases/download/claude-menu-bar-windows-v1.2.0.4/ClaudeMenuBar-Windows-1.2.0.4.msi",
   "release_notes": "Dual ADC+CLI auth timers, revoke & reauth, shared reauth sentinel, collapsible timers, in-app update download & install, Claude Desktop 3P session detection, gcloud PATH fallback, idle auto-close"
 }
