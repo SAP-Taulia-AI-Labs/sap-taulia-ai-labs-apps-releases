@@ -1,5 +1,5 @@
 {
-  "version": "1.2.0.8",
-  "download_url": "https://github.com/SAP-Taulia-AI-Labs/sap-taulia-ai-labs-apps-releases/releases/download/claude-menu-bar-windows-v1.2.0.8/ClaudeMenuBar-Windows-1.2.0.8.msi",
-  "release_notes": "Check for Update: tray balloon tip confirms when already up to date; auto-download now works correctly when update is found"
+  "version": "1.2.0.9",
+  "download_url": "https://github.com/SAP-Taulia-AI-Labs/sap-taulia-ai-labs-apps-releases/releases/download/claude-menu-bar-windows-v1.2.0.9/ClaudeMenuBar-Windows-1.2.0.9.msi",
+  "release_notes": "Fix: in-app update download now works correctly (WebClient disposal bug that silently cancelled every download)"
 }
