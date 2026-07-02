@@ -1,5 +1,5 @@
 {
-  "version": "1.2.11",
-  "download_url": "https://github.com/SAP-Taulia-AI-Labs/sap-taulia-ai-labs-apps-releases/releases/download/claude-menu-bar-windows-v1.2.11/ClaudeMenuBar-Windows-1.2.11.msi",
-  "release_notes": "Update prompt is now a native Yes/No dialog — shows automatically when the window opens if an update is waiting, and when Check for Update finds a newer version"
+  "version": "1.2.12",
+  "download_url": "https://github.com/SAP-Taulia-AI-Labs/sap-taulia-ai-labs-apps-releases/releases/download/claude-menu-bar-windows-v1.2.12/ClaudeMenuBar-Windows-1.2.12.msi",
+  "release_notes": "Test release for v1.2.11 auto-update verification"
 }
