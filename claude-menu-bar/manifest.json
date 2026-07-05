@@ -1,5 +1,5 @@
 {
-  "version": "1.2.4",
-  "download_url": "https://github.com/SAP-Taulia-AI-Labs/sap-taulia-ai-labs-apps-releases/releases/download/claude-menu-bar-v1.2.4/ClaudeMenuBar-macOS-1.2.4.pkg",
-  "release_notes": "Version-stamped pkg filenames, SAP Taulia branding"
+  "version": "1.2.5",
+  "download_url": "https://github.com/SAP-Taulia-AI-Labs/sap-taulia-ai-labs-apps-releases/releases/download/claude-menu-bar-v1.2.5/ClaudeMenuBar-macOS-1.2.5.pkg",
+  "release_notes": "Fix main screen ADC status not reflecting reauth — token validation re-checks every 60s and bypasses debounce when credentials updated externally"
 }
