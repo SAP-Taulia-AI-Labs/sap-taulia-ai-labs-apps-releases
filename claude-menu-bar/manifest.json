@@ -1,5 +1,5 @@
 {
-  "version": "1.3.6",
-  "download_url": "https://github.com/SAP-Taulia-AI-Labs/sap-taulia-ai-labs-apps-releases/releases/download/claude-menu-bar-v1.3.6/ClaudeMenuBar-macOS-1.3.6.pkg",
-  "release_notes": "Auto re-auth for Google ADC and the Claude CLI is now optional — two independent checkboxes on the Home screen. Also hardened the LiteLLM enrollment flow to validate the install script before running it, instead of piping it straight into a shell."
+  "version": "1.3.7",
+  "download_url": "https://github.com/SAP-Taulia-AI-Labs/sap-taulia-ai-labs-apps-releases/releases/download/claude-menu-bar-v1.3.7/ClaudeMenuBar-macOS-1.3.7.pkg",
+  "release_notes": "Fixed the update checker always reporting a new version available due to a stale hardcoded version string. Added an Administrator-access check before installing updates, with a reminder if elevation is needed."
 }
