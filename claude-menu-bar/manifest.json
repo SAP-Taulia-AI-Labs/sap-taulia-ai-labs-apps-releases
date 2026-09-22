@@ -1,5 +1,5 @@
 {
-  "version": "1.3.7",
-  "download_url": "https://github.com/SAP-Taulia-AI-Labs/sap-taulia-ai-labs-apps-releases/releases/download/claude-menu-bar-v1.3.7/ClaudeMenuBar-macOS-1.3.7.pkg",
-  "release_notes": "Fixed the update checker always reporting a new version available due to a stale hardcoded version string. Added an Administrator-access check before installing updates, with a reminder if elevation is needed."
+  "version": "1.3.8",
+  "download_url": "https://github.com/SAP-Taulia-AI-Labs/sap-taulia-ai-labs-apps-releases/releases/download/claude-menu-bar-v1.3.8/ClaudeMenuBar-macOS-1.3.8.pkg",
+  "release_notes": "Fixed the app not reliably relaunching itself after a .pkg update finishes installing (postinstall now launches as the console user instead of root)."
 }
