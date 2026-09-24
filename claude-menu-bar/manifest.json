@@ -1,5 +1,5 @@
 {
-  "version": "1.3.9",
-  "download_url": "https://github.com/SAP-Taulia-AI-Labs/sap-taulia-ai-labs-apps-releases/releases/download/claude-menu-bar-v1.3.9/ClaudeMenuBar-macOS-1.3.9.pkg",
-  "release_notes": "Fix sustained high CPU usage — session files are now cached and only re-parsed when changed, instead of fully re-scanned every 5 seconds. CPU drops from a sustained ~256% to 0% steady-state between refresh ticks."
+  "version": "1.3.12",
+  "download_url": "https://github.com/SAP-Taulia-AI-Labs/sap-taulia-ai-labs-apps-releases/releases/download/claude-menu-bar-v1.3.12/ClaudeMenuBar-macOS-1.3.12.pkg",
+  "release_notes": "Auto re-auth now off by default for ADC and CLI. LiteLLM Prod/Staging now show key-rotation countdowns (5-day/7-day). Menu bar icon is now static; popover memory footprint reduced."
 }
