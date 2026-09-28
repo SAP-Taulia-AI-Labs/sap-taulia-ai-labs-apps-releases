@@ -1,5 +1,5 @@
 {
-  "version": "1.3.18",
-  "download_url": "https://github.com/SAP-Taulia-AI-Labs/sap-taulia-ai-labs-apps-releases/releases/download/claude-menu-bar-v1.3.18/ClaudeMenuBar-macOS-1.3.18.pkg",
-  "release_notes": "LiteLLM Prod/Staging spend and usage now persist and refresh every 45 minutes in the background. Both sections show which key's numbers are displayed (masked) and when last updated. Key-rotation countdown now discloses its drift-risk limitation via tooltip. Menu bar icon reverted to original (Dock/Finder icon keeps the new logo)."
+  "version": "1.3.19",
+  "download_url": "https://github.com/SAP-Taulia-AI-Labs/sap-taulia-ai-labs-apps-releases/releases/download/claude-menu-bar-v1.3.19/ClaudeMenuBar-macOS-1.3.19.pkg",
+  "release_notes": "Shortened LiteLLM Prod/Staging background refresh from 45 to 5 minutes so a transient fetch failure recovers quickly instead of waiting up to 45 minutes. Failed background fetches now log the failure reason instead of failing silently."
 }
