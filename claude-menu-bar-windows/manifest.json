@@ -1,5 +1,5 @@
 {
-  "version": "1.3.32",
-  "download_url": "https://github.com/SAP-Taulia-AI-Labs/sap-taulia-ai-labs-apps-releases/raw/main/claude-menu-bar-windows/ClaudeMenuBar-Windows-1.3.32.msi",
-  "release_notes": "Launch at Login now defaults to enabled on first run after a fresh install or upgrade. Fixed a bug where the Windows Run registry key wasn't created if it didn't already exist, silently preventing Launch at Login from taking effect."
+  "version": "1.3.34",
+  "download_url": "https://github.com/SAP-Taulia-AI-Labs/sap-taulia-ai-labs-apps-releases/raw/main/claude-menu-bar-windows/ClaudeMenuBar-Windows-1.3.34.msi",
+  "release_notes": "Fixed a bug where clicking the 'click to install' update link (or the version text) in the header did nothing — the window's drag handler was silently swallowing the click before it could register."
 }
