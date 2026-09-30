@@ -1,5 +1,5 @@
 {
-  "version": "1.3.34",
-  "download_url": "https://github.com/SAP-Taulia-AI-Labs/sap-taulia-ai-labs-apps-releases/raw/main/claude-menu-bar-windows/ClaudeMenuBar-Windows-1.3.34.msi",
-  "release_notes": "Fixed a bug where clicking the 'click to install' update link (or the version text) in the header did nothing — the window's drag handler was silently swallowing the click before it could register."
+  "version": "1.3.36",
+  "download_url": "https://github.com/SAP-Taulia-AI-Labs/sap-taulia-ai-labs-apps-releases/raw/main/claude-menu-bar-windows/ClaudeMenuBar-Windows-1.3.36.msi",
+  "release_notes": "Fixed two upgrade bugs: installing an update could launch two copies of the app at once, and the update-available notification could pop up repeatedly instead of once."
 }
