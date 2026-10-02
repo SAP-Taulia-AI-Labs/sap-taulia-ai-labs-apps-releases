@@ -1,5 +1,6 @@
 {
-  "version": "1.3.36",
-  "download_url": "https://github.com/SAP-Taulia-AI-Labs/sap-taulia-ai-labs-apps-releases/raw/main/claude-menu-bar-windows/ClaudeMenuBar-Windows-1.3.36.msi",
-  "release_notes": "Fixed two upgrade bugs: installing an update could launch two copies of the app at once, and the update-available notification could pop up repeatedly instead of once."
+  "version": "2.0",
+  "download_url": "https://github.com/SAP-Taulia-AI-Labs/sap-taulia-ai-labs-apps-releases/raw/main/claude-menu-bar-windows/SAPTauliaAIHub-Windows-2.0.msi",
+  "sha256": "7fdcd169bc16cd2413d759c92d8cab94161720f900469c164a45a08753ed56f6",
+  "release_notes": "Claude Menu Bar is now SAP Taulia AI Hub. Your settings carry over. New Costs Overview tab, a 7-day chart with today's spend and daily average, and a smoother install, upgrade and uninstall."
 }
