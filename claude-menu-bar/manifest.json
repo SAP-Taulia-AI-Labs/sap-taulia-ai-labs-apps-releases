@@ -1,6 +1,6 @@
 {
-  "version": "2.0.0",
-  "download_url": "https://github.com/SAP-Taulia-AI-Labs/sap-taulia-ai-labs-apps-releases/releases/download/claude-menu-bar-v2.0.0/SAPTauliaAIHub-macOS-2.0.0.pkg",
-  "sha256": "659d7a0fa6b5a63d5ad9d0aa5c31d5dc9163486ec1b39d925e0650bfc0cf7355",
-  "release_notes": "Claude Menu Bar is now SAP Taulia AI Hub - with a redesigned, simpler menu bar. Your settings carry over."
+  "version": "2.1.0",
+  "download_url": "https://github.com/SAP-Taulia-AI-Labs/sap-taulia-ai-labs-apps-releases/releases/download/claude-menu-bar-v2.1.0/SAPTauliaAIHub-macOS-2.1.0.pkg",
+  "sha256": "8ba036d09841766f21521c8e112a674368c5289d4e1501e93c66562c7f09d969",
+  "release_notes": "Copy your LiteLLM keys with one click, see each key's validity, and see whether Taulia VPN is connected."
 }
