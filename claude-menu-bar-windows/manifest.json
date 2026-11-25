@@ -1,6 +1,6 @@
 {
-  "version": "2.0",
-  "download_url": "https://github.com/SAP-Taulia-AI-Labs/sap-taulia-ai-labs-apps-releases/raw/main/claude-menu-bar-windows/SAPTauliaAIHub-Windows-2.0.msi",
-  "sha256": "7fdcd169bc16cd2413d759c92d8cab94161720f900469c164a45a08753ed56f6",
-  "release_notes": "Claude Menu Bar is now SAP Taulia AI Hub. Your settings carry over. New Costs Overview tab, a 7-day chart with today's spend and daily average, and a smoother install, upgrade and uninstall."
+  "version": "2.4.3",
+  "download_url": "https://github.com/SAP-Taulia-AI-Labs/sap-taulia-ai-labs-apps-releases/raw/main/claude-menu-bar-windows/SAPTauliaAIHub-Windows-2.4.3.msi",
+  "sha256": "221bd1047e0da9523b9f5c30aaf60b1937ca8955a3ec2fa6cf505e98e5d2d32f",
+  "release_notes": "New A to F model usage grade, budget alerts on the tray icon, copy and validity checks for LiteLLM keys, models you use, Enroll and Rotate buttons, and a more compact Home. Google Vertex AI support is removed."
 }
