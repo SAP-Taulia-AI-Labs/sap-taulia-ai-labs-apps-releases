@@ -1,6 +1,6 @@
 {
-  "version": "2.1.0",
-  "download_url": "https://github.com/SAP-Taulia-AI-Labs/sap-taulia-ai-labs-apps-releases/releases/download/claude-menu-bar-v2.1.0/SAPTauliaAIHub-macOS-2.1.0.pkg",
-  "sha256": "8ba036d09841766f21521c8e112a674368c5289d4e1501e93c66562c7f09d969",
-  "release_notes": "Copy your LiteLLM keys with one click, see each key's validity, and see whether Taulia VPN is connected."
+  "version": "2.4.3",
+  "download_url": "https://github.com/SAP-Taulia-AI-Labs/sap-taulia-ai-labs-apps-releases/releases/download/claude-menu-bar-v2.4.3/SAPTauliaAIHub-macOS-2.4.3.pkg",
+  "sha256": "3b78caba6f0f991d7fa8941ca073879ea02b17fc0e6e32cfe72ac9e5ca70ac36",
+  "release_notes": "A-F model grade, LiteLLM budget alerts on the menu bar icon, current models for Claude Code and Desktop, Enroll and Rotate buttons, and a more compact Home. Vertex AI support is removed."
 }
